@@ -1,0 +1,17 @@
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\PersonalAssistant.exe
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\PersonalAssistant.deps.json
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\PersonalAssistant.runtimeconfig.json
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\PersonalAssistant.dll
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\PersonalAssistant.pdb
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.csproj.AssemblyReference.cache
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.Form1.resources
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.csproj.GenerateResource.cache
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.AssemblyInfoInputs.cache
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.AssemblyInfo.cs
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.csproj.CoreCompileInputs.cache
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.dll
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\refint\PersonalAssistant.dll
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.pdb
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.genruntimeconfig.cache
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\ref\PersonalAssistant.dll
