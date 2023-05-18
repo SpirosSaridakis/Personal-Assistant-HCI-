@@ -1,11 +1,71 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "EmailClient/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EmailClient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmailClient.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Forms Appointments/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Forms Appointments.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Forms Appointments.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "SettingsForm/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SettingsForm.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SettingsForm.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "EmailClient/1.0.0": {
+      "type": "project",
+      "path": "../../../../../source/repos/EmailClient/EmailClient.csproj",
+      "msbuildProject": "../../../../../source/repos/EmailClient/EmailClient.csproj"
+    },
+    "Forms Appointments/1.0.0": {
+      "type": "project",
+      "path": "../../../../../source/repos/Forms Appointments/Forms Appointments.csproj",
+      "msbuildProject": "../../../../../source/repos/Forms Appointments/Forms Appointments.csproj"
+    },
+    "SettingsForm/1.0.0": {
+      "type": "project",
+      "path": "../../../../../source/repos/SettingsForm/SettingsForm.csproj",
+      "msbuildProject": "../../../../../source/repos/SettingsForm/SettingsForm.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "EmailClient >= 1.0.0",
+      "Forms Appointments >= 1.0.0",
+      "SettingsForm >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\giann\\.nuget\\packages\\": {},
@@ -38,7 +98,17 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\giann\\source\\repos\\EmailClient\\EmailClient.csproj": {
+              "projectPath": "C:\\Users\\giann\\source\\repos\\EmailClient\\EmailClient.csproj"
+            },
+            "C:\\Users\\giann\\source\\repos\\Forms Appointments\\Forms Appointments.csproj": {
+              "projectPath": "C:\\Users\\giann\\source\\repos\\Forms Appointments\\Forms Appointments.csproj"
+            },
+            "C:\\Users\\giann\\source\\repos\\SettingsForm\\SettingsForm.csproj": {
+              "projectPath": "C:\\Users\\giann\\source\\repos\\SettingsForm\\SettingsForm.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

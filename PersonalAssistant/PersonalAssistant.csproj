@@ -8,4 +8,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\source\repos\EmailClient\EmailClient.csproj" />
+    <ProjectReference Include="..\..\..\..\..\source\repos\Forms Appointments\Forms Appointments.csproj" />
+    <ProjectReference Include="..\..\..\..\..\source\repos\SettingsForm\SettingsForm.csproj" />
+  </ItemGroup>
+
 </Project>

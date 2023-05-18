@@ -7,14 +7,53 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "PersonalAssistant/1.0.0": {
+        "dependencies": {
+          "EmailClient": "1.0.0",
+          "SettingsForm": "1.0.0"
+        },
         "runtime": {
           "PersonalAssistant.dll": {}
+        }
+      },
+      "EmailClient/1.0.0": {
+        "runtime": {
+          "EmailClient.dll": {}
+        },
+        "resources": {
+          "el/EmailClient.resources.dll": {
+            "locale": "el"
+          }
+        }
+      },
+      "Forms Appointments/1.0.0": {
+        "runtime": {
+          "Forms Appointments.dll": {}
+        }
+      },
+      "SettingsForm/1.0.0": {
+        "runtime": {
+          "SettingsForm.dll": {}
         }
       }
     }
   },
   "libraries": {
     "PersonalAssistant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmailClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Forms Appointments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SettingsForm/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

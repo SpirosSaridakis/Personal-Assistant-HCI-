@@ -4,7 +4,6 @@ C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssista
 C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\PersonalAssistant.dll
 C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\PersonalAssistant.pdb
 C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.csproj.AssemblyReference.cache
-C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.Form1.resources
 C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.csproj.GenerateResource.cache
 C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.AssemblyInfoInputs.cache
@@ -15,3 +14,21 @@ C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssista
 C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.pdb
 C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.genruntimeconfig.cache
 C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\ref\PersonalAssistant.dll
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\EmailClient.deps.json
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\EmailClient.runtimeconfig.json
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\EmailClient.exe
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\EmailClient.dll
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\EmailClient.pdb
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\el\EmailClient.resources.dll
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.MainMenu.resources
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.csproj.CopyComplete
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\SettingsForm.deps.json
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\SettingsForm.runtimeconfig.json
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\SettingsForm.exe
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\SettingsForm.dll
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\SettingsForm.pdb
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\Forms Appointments.deps.json
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\Forms Appointments.runtimeconfig.json
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\Forms Appointments.exe
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\Forms Appointments.dll
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\Forms Appointments.pdb

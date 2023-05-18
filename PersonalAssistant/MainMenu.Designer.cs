@@ -1,6 +1,6 @@
 ﻿namespace PersonalAssistant
 {
-    partial class Form1
+    partial class MainMenu
     {
         /// <summary>
         ///  Required designer variable.
@@ -90,6 +90,7 @@
             button5.TabIndex = 4;
             button5.Text = "Settings";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button6
             // 
@@ -117,6 +118,7 @@
             button8.TabIndex = 7;
             button8.Text = "Emails";
             button8.UseVisualStyleBackColor = true;
+            button8.Click += button8_Click;
             // 
             // textBox1
             // 
@@ -161,6 +163,7 @@
             button12.TabIndex = 12;
             button12.Text = "My Events";
             button12.UseVisualStyleBackColor = true;
+            button12.Click += button12_Click;
             // 
             // button13
             // 
@@ -191,7 +194,7 @@
             label1.TabIndex = 15;
             label1.Text = "Welcome to your Personal Assistant";
             // 
-            // Form1
+            // MainMenu
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -214,7 +217,7 @@
             Controls.Add(button2);
             Controls.Add(button1);
             FormBorderStyle = FormBorderStyle.FixedToolWindow;
-            Name = "Form1";
+            Name = "MainMenu";
             Text = "Personal Assisant";
             ResumeLayout(false);
             PerformLayout();
