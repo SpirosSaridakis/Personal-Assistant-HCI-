@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MusicPlayerWin));
             panel1 = new Panel();
             label1 = new Label();
@@ -37,6 +38,7 @@
             button4 = new Button();
             button5 = new Button();
             pictureBox1 = new PictureBox();
+            toolTip1 = new ToolTip(components);
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
@@ -73,6 +75,7 @@
             button1.Size = new Size(52, 52);
             button1.TabIndex = 0;
             button1.Text = "X";
+            toolTip1.SetToolTip(button1, "Exit");
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
@@ -85,6 +88,7 @@
             button2.Name = "button2";
             button2.Size = new Size(68, 54);
             button2.TabIndex = 1;
+            toolTip1.SetToolTip(button2, "Open Music File");
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
@@ -97,6 +101,7 @@
             button3.Name = "button3";
             button3.Size = new Size(68, 68);
             button3.TabIndex = 2;
+            toolTip1.SetToolTip(button3, "Previous");
             button3.UseVisualStyleBackColor = true;
             // 
             // button4
@@ -108,6 +113,7 @@
             button4.Name = "button4";
             button4.Size = new Size(68, 68);
             button4.TabIndex = 3;
+            toolTip1.SetToolTip(button4, "Play");
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
@@ -120,6 +126,7 @@
             button5.Name = "button5";
             button5.Size = new Size(68, 68);
             button5.TabIndex = 4;
+            toolTip1.SetToolTip(button5, "Next");
             button5.UseVisualStyleBackColor = true;
             // 
             // pictureBox1
@@ -164,5 +171,6 @@
         private Button button4;
         private Button button5;
         private PictureBox pictureBox1;
+        private ToolTip toolTip1;
     }
 }
