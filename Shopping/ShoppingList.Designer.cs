@@ -72,6 +72,7 @@
             button2.TabIndex = 3;
             button2.Text = "Add To List";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -81,6 +82,7 @@
             button3.TabIndex = 4;
             button3.Text = "Delete From List";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // textBox2
             // 
@@ -94,7 +96,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(0, 0, 64);
+            BackColor = Color.FromArgb(224, 224, 224);
             ClientSize = new Size(678, 402);
             Controls.Add(textBox2);
             Controls.Add(button3);

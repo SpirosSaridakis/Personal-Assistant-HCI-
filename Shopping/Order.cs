@@ -12,5 +12,14 @@ namespace Shopping
             var newform = new Payment();
             newform.Show();
         }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Order_Load(object sender, EventArgs e)
+        {
+        }
     }
 }

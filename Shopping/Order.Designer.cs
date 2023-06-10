@@ -43,6 +43,7 @@
             listBox1.ScrollAlwaysVisible = true;
             listBox1.Size = new Size(776, 344);
             listBox1.TabIndex = 1;
+            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
             // button1
             // 
@@ -66,25 +67,26 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.ForeColor = SystemColors.Control;
+            label1.ForeColor = Color.Black;
             label1.Location = new Point(12, 21);
             label1.Name = "label1";
             label1.Size = new Size(81, 20);
             label1.TabIndex = 4;
             label1.Text = "Your Items:";
             // 
-            // Form1
+            // Order
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(0, 0, 64);
+            BackColor = Color.FromArgb(224, 224, 224);
             ClientSize = new Size(800, 450);
             Controls.Add(label1);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(listBox1);
-            Name = "Form1";
+            Name = "Order";
             Text = "Form1";
+            Load += Order_Load;
             ResumeLayout(false);
             PerformLayout();
         }
