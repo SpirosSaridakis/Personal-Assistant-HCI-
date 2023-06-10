@@ -9,7 +9,9 @@
       "PersonalAssistant/1.0.0": {
         "dependencies": {
           "EmailClient": "1.0.0",
-          "SettingsForm": "1.0.0"
+          "MusicPlayer": "1.0.0",
+          "SettingsForm": "1.0.0",
+          "Shopping": "1.0.0"
         },
         "runtime": {
           "PersonalAssistant.dll": {}
@@ -30,9 +32,19 @@
           "Forms Appointments.dll": {}
         }
       },
+      "MusicPlayer/1.0.0": {
+        "runtime": {
+          "MusicPlayer.dll": {}
+        }
+      },
       "SettingsForm/1.0.0": {
         "runtime": {
           "SettingsForm.dll": {}
+        }
+      },
+      "Shopping/1.0.0": {
+        "runtime": {
+          "Shopping.dll": {}
         }
       }
     }
@@ -53,7 +65,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "MusicPlayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "SettingsForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shopping/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

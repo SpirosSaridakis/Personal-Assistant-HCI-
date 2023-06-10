@@ -43,7 +43,6 @@
             button12 = new Button();
             button13 = new Button();
             button14 = new Button();
-            label1 = new Label();
             SuspendLayout();
             // 
             // button1
@@ -145,6 +144,7 @@
             button10.TabIndex = 10;
             button10.Text = "Music";
             button10.UseVisualStyleBackColor = true;
+            button10.Click += button10_Click;
             // 
             // button11
             // 
@@ -154,6 +154,7 @@
             button11.TabIndex = 11;
             button11.Text = "Shop Online";
             button11.UseVisualStyleBackColor = true;
+            button11.Click += button11_Click;
             // 
             // button12
             // 
@@ -183,24 +184,12 @@
             button14.Text = "Reminders";
             button14.UseVisualStyleBackColor = true;
             // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Century Gothic", 22.2F, FontStyle.Bold, GraphicsUnit.Point);
-            label1.ForeColor = SystemColors.Highlight;
-            label1.Location = new Point(127, 131);
-            label1.Name = "label1";
-            label1.Size = new Size(650, 44);
-            label1.TabIndex = 15;
-            label1.Text = "Welcome to your Personal Assistant";
-            // 
             // MainMenu
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = SystemColors.ActiveCaption;
+            BackColor = Color.FromArgb(0, 0, 64);
             ClientSize = new Size(889, 450);
-            Controls.Add(label1);
             Controls.Add(button14);
             Controls.Add(button13);
             Controls.Add(button12);
@@ -240,6 +229,5 @@
         private Button button12;
         private Button button13;
         private Button button14;
-        private Label label1;
     }
 }

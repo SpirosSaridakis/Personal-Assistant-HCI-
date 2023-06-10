@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalAssistant", "PersonalAssistant.csproj", "{11551F6D-BB18-48B8-810A-7B9BFAAE7A7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonalAssistant", "PersonalAssistant.csproj", "{11551F6D-BB18-48B8-810A-7B9BFAAE7A7B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailClient", "..\..\..\..\..\source\repos\EmailClient\EmailClient.csproj", "{AEF98960-04F5-4E67-9C12-001EB3DAAAD1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SettingsForm", "..\..\..\..\..\source\repos\SettingsForm\SettingsForm.csproj", "{807C9223-613E-433C-B5A2-537776A966E7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forms Appointments", "..\..\..\..\..\source\repos\Forms Appointments\Forms Appointments.csproj", "{1C0DE59F-4390-4097-BBE3-91DC029507F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping", "..\Shopping\Shopping.csproj", "{061EAB3C-D1BC-4587-B03D-0594B3E76F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlayer", "..\MusicPlayer\MusicPlayer.csproj", "{168CDC40-9BD2-4908-BCE9-B01B0ACE215D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{1C0DE59F-4390-4097-BBE3-91DC029507F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C0DE59F-4390-4097-BBE3-91DC029507F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C0DE59F-4390-4097-BBE3-91DC029507F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{061EAB3C-D1BC-4587-B03D-0594B3E76F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061EAB3C-D1BC-4587-B03D-0594B3E76F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061EAB3C-D1BC-4587-B03D-0594B3E76F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061EAB3C-D1BC-4587-B03D-0594B3E76F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168CDC40-9BD2-4908-BCE9-B01B0ACE215D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168CDC40-9BD2-4908-BCE9-B01B0ACE215D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168CDC40-9BD2-4908-BCE9-B01B0ACE215D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168CDC40-9BD2-4908-BCE9-B01B0ACE215D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

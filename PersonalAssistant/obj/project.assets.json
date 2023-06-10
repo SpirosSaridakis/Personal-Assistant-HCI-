@@ -28,6 +28,19 @@
           "Microsoft.WindowsDesktop.App.WindowsForms"
         ]
       },
+      "MusicPlayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MusicPlayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MusicPlayer.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
       "SettingsForm/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -36,6 +49,19 @@
         },
         "runtime": {
           "bin/placeholder/SettingsForm.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Shopping/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Shopping.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shopping.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WindowsForms"
@@ -54,17 +80,29 @@
       "path": "../../../../../source/repos/Forms Appointments/Forms Appointments.csproj",
       "msbuildProject": "../../../../../source/repos/Forms Appointments/Forms Appointments.csproj"
     },
+    "MusicPlayer/1.0.0": {
+      "type": "project",
+      "path": "../MusicPlayer/MusicPlayer.csproj",
+      "msbuildProject": "../MusicPlayer/MusicPlayer.csproj"
+    },
     "SettingsForm/1.0.0": {
       "type": "project",
       "path": "../../../../../source/repos/SettingsForm/SettingsForm.csproj",
       "msbuildProject": "../../../../../source/repos/SettingsForm/SettingsForm.csproj"
+    },
+    "Shopping/1.0.0": {
+      "type": "project",
+      "path": "../Shopping/Shopping.csproj",
+      "msbuildProject": "../Shopping/Shopping.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
       "EmailClient >= 1.0.0",
       "Forms Appointments >= 1.0.0",
-      "SettingsForm >= 1.0.0"
+      "MusicPlayer >= 1.0.0",
+      "SettingsForm >= 1.0.0",
+      "Shopping >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -99,6 +137,12 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
+            "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\MusicPlayer\\MusicPlayer.csproj": {
+              "projectPath": "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\MusicPlayer\\MusicPlayer.csproj"
+            },
+            "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\Shopping\\Shopping.csproj": {
+              "projectPath": "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\Shopping\\Shopping.csproj"
+            },
             "C:\\Users\\giann\\source\\repos\\EmailClient\\EmailClient.csproj": {
               "projectPath": "C:\\Users\\giann\\source\\repos\\EmailClient\\EmailClient.csproj"
             },
@@ -139,7 +183,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

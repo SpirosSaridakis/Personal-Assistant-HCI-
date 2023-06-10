@@ -1,6 +1,8 @@
 using EmailClient;
 using Forms_Appointments;
 using SettingsForm;
+using Shopping;
+using MusicPlayer;
 
 namespace PersonalAssistant
 {
@@ -26,6 +28,18 @@ namespace PersonalAssistant
         private void button12_Click(object sender, EventArgs e)
         {
             var newform = new Calendar();
+            newform.Show();
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            var newform = new ShoppingList();
+            newform.Show();
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            var newform = new MusicPlayer.MusicPlayerWin();
             newform.Show();
         }
     }
