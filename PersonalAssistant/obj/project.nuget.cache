@@ -1,8 +1,36 @@
 {
   "version": 2,
-  "dgSpecHash": "LXcddK2TXbeHmQJHKFk8672ZlybJOu4aq8YYDE36Rx72JPSvDL1y7WAqp8ADSYmJy5HAF4JSQcuH2eS2rruNXw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\PersonalAssistant\\PersonalAssistant.csproj",
+  "dgSpecHash": "GHiqKd0EYLE9pV4c2zqdaKS6LhhpE3F+kn63zDwwxCTLoJe9Qy5hvuO1dtmhdA5rP6lSOMxHMgZQpDMcLQcaCg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Shinano\\Source\\Repos\\SpirosSaridakis\\Personal-Assistant-HCI-\\PersonalAssistant\\PersonalAssistant.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Shinano\\source\\repos\\SettingsForm\\SettingsForm.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Shinano\\source\\repos\\SettingsForm\\SettingsForm.csproj",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Shinano\\source\\repos\\EmailClient\\EmailClient.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Shinano\\source\\repos\\EmailClient\\EmailClient.csproj",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Shinano\\source\\repos\\Forms Appointments\\Forms Appointments.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Shinano\\source\\repos\\Forms Appointments\\Forms Appointments.csproj",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }
