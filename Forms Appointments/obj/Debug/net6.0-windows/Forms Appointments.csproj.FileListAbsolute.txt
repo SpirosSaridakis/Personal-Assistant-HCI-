@@ -1,0 +1,17 @@
+C:\Users\giann\source\repos\Forms Appointments\bin\Debug\net6.0-windows\Forms Appointments.exe
+C:\Users\giann\source\repos\Forms Appointments\bin\Debug\net6.0-windows\Forms Appointments.deps.json
+C:\Users\giann\source\repos\Forms Appointments\bin\Debug\net6.0-windows\Forms Appointments.runtimeconfig.json
+C:\Users\giann\source\repos\Forms Appointments\bin\Debug\net6.0-windows\Forms Appointments.dll
+C:\Users\giann\source\repos\Forms Appointments\bin\Debug\net6.0-windows\Forms Appointments.pdb
+C:\Users\giann\source\repos\Forms Appointments\obj\Debug\net6.0-windows\Forms Appointments.csproj.AssemblyReference.cache
+C:\Users\giann\source\repos\Forms Appointments\obj\Debug\net6.0-windows\Forms Appointments.csproj.GenerateResource.cache
+C:\Users\giann\source\repos\Forms Appointments\obj\Debug\net6.0-windows\Forms Appointments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giann\source\repos\Forms Appointments\obj\Debug\net6.0-windows\Forms Appointments.AssemblyInfoInputs.cache
+C:\Users\giann\source\repos\Forms Appointments\obj\Debug\net6.0-windows\Forms Appointments.AssemblyInfo.cs
+C:\Users\giann\source\repos\Forms Appointments\obj\Debug\net6.0-windows\Forms Appointments.csproj.CoreCompileInputs.cache
+C:\Users\giann\source\repos\Forms Appointments\obj\Debug\net6.0-windows\Forms Appointments.dll
+C:\Users\giann\source\repos\Forms Appointments\obj\Debug\net6.0-windows\refint\Forms Appointments.dll
+C:\Users\giann\source\repos\Forms Appointments\obj\Debug\net6.0-windows\Forms Appointments.pdb
+C:\Users\giann\source\repos\Forms Appointments\obj\Debug\net6.0-windows\Forms Appointments.genruntimeconfig.cache
+C:\Users\giann\source\repos\Forms Appointments\obj\Debug\net6.0-windows\ref\Forms Appointments.dll
+C:\Users\giann\source\repos\Forms Appointments\obj\Debug\net6.0-windows\Forms_Appointments.Calendar.resources

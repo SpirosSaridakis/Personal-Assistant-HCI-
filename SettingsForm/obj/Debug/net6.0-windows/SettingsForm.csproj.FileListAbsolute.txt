@@ -1,0 +1,17 @@
+C:\Users\giann\source\repos\SettingsForm\bin\Debug\net6.0-windows\SettingsForm.exe
+C:\Users\giann\source\repos\SettingsForm\bin\Debug\net6.0-windows\SettingsForm.deps.json
+C:\Users\giann\source\repos\SettingsForm\bin\Debug\net6.0-windows\SettingsForm.runtimeconfig.json
+C:\Users\giann\source\repos\SettingsForm\bin\Debug\net6.0-windows\SettingsForm.dll
+C:\Users\giann\source\repos\SettingsForm\bin\Debug\net6.0-windows\SettingsForm.pdb
+C:\Users\giann\source\repos\SettingsForm\obj\Debug\net6.0-windows\SettingsForm.csproj.AssemblyReference.cache
+C:\Users\giann\source\repos\SettingsForm\obj\Debug\net6.0-windows\SettingsForm.csproj.GenerateResource.cache
+C:\Users\giann\source\repos\SettingsForm\obj\Debug\net6.0-windows\SettingsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giann\source\repos\SettingsForm\obj\Debug\net6.0-windows\SettingsForm.AssemblyInfoInputs.cache
+C:\Users\giann\source\repos\SettingsForm\obj\Debug\net6.0-windows\SettingsForm.AssemblyInfo.cs
+C:\Users\giann\source\repos\SettingsForm\obj\Debug\net6.0-windows\SettingsForm.csproj.CoreCompileInputs.cache
+C:\Users\giann\source\repos\SettingsForm\obj\Debug\net6.0-windows\SettingsForm.dll
+C:\Users\giann\source\repos\SettingsForm\obj\Debug\net6.0-windows\refint\SettingsForm.dll
+C:\Users\giann\source\repos\SettingsForm\obj\Debug\net6.0-windows\SettingsForm.pdb
+C:\Users\giann\source\repos\SettingsForm\obj\Debug\net6.0-windows\SettingsForm.genruntimeconfig.cache
+C:\Users\giann\source\repos\SettingsForm\obj\Debug\net6.0-windows\ref\SettingsForm.dll
+C:\Users\giann\source\repos\SettingsForm\obj\Debug\net6.0-windows\SettingsForm.Settings.resources
