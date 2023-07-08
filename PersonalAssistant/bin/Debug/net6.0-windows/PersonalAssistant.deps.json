@@ -27,19 +27,9 @@
           }
         }
       },
-      "Forms Appointments/1.0.0": {
-        "runtime": {
-          "Forms Appointments.dll": {}
-        }
-      },
       "MusicPlayer/1.0.0": {
         "runtime": {
           "MusicPlayer.dll": {}
-        }
-      },
-      "SettingsForm/1.0.0": {
-        "runtime": {
-          "SettingsForm.dll": {}
         }
       },
       "Shopping/1.0.0": {
@@ -60,17 +50,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Forms Appointments/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "MusicPlayer/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "SettingsForm/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

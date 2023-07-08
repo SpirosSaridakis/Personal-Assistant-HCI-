@@ -72,8 +72,8 @@
   "libraries": {
     "EmailClient/1.0.0": {
       "type": "project",
-      "path": "../../../../../source/repos/EmailClient/EmailClient.csproj",
-      "msbuildProject": "../../../../../source/repos/EmailClient/EmailClient.csproj"
+      "path": "../EmailClient/EmailClient.csproj",
+      "msbuildProject": "../EmailClient/EmailClient.csproj"
     },
     "Forms Appointments/1.0.0": {
       "type": "project",
@@ -137,8 +137,17 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
+            "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\EmailClient\\EmailClient.csproj": {
+              "projectPath": "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\EmailClient\\EmailClient.csproj"
+            },
+            "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\Forms Appointments\\Forms Appointments.csproj": {
+              "projectPath": "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\Forms Appointments\\Forms Appointments.csproj"
+            },
             "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\MusicPlayer\\MusicPlayer.csproj": {
               "projectPath": "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\MusicPlayer\\MusicPlayer.csproj"
+            },
+            "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\SettingsForm\\SettingsForm.csproj": {
+              "projectPath": "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\SettingsForm\\SettingsForm.csproj"
             },
             "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\Shopping\\Shopping.csproj": {
               "projectPath": "C:\\Users\\giann\\OneDrive\\Documents\\GitHub\\Personal-Assistant-HCI-\\Shopping\\Shopping.csproj"

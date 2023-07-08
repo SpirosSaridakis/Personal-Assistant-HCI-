@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainMenu));
             button1 = new Button();
             button2 = new Button();
             button3 = new Button();
@@ -47,18 +48,20 @@
             // 
             // button1
             // 
-            button1.Location = new Point(12, 409);
+            button1.FlatAppearance.BorderSize = 0;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.Image = (Image)resources.GetObject("button1.Image");
+            button1.Location = new Point(30, 409);
             button1.Name = "button1";
-            button1.Size = new Size(212, 29);
+            button1.Size = new Size(71, 70);
             button1.TabIndex = 0;
-            button1.Text = "Phone and Messages";
             button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
-            button2.Location = new Point(230, 409);
+            button2.Location = new Point(158, 409);
             button2.Name = "button2";
-            button2.Size = new Size(212, 29);
+            button2.Size = new Size(212, 50);
             button2.TabIndex = 1;
             button2.Text = "Contacts";
             button2.UseVisualStyleBackColor = true;
@@ -83,11 +86,14 @@
             // 
             // button5
             // 
-            button5.Location = new Point(783, 12);
+            button5.FlatAppearance.BorderSize = 0;
+            button5.FlatStyle = FlatStyle.Flat;
+            button5.Image = (Image)resources.GetObject("button5.Image");
+            button5.Location = new Point(804, 12);
+            button5.Margin = new Padding(0);
             button5.Name = "button5";
-            button5.Size = new Size(94, 29);
+            button5.Size = new Size(73, 71);
             button5.TabIndex = 4;
-            button5.Text = "Settings";
             button5.UseVisualStyleBackColor = true;
             button5.Click += button5_Click;
             // 
@@ -188,8 +194,8 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(0, 0, 64);
-            ClientSize = new Size(889, 450);
+            BackColor = Color.White;
+            ClientSize = new Size(889, 501);
             Controls.Add(button14);
             Controls.Add(button13);
             Controls.Add(button12);
@@ -205,9 +211,10 @@
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
-            FormBorderStyle = FormBorderStyle.FixedToolWindow;
+            FormBorderStyle = FormBorderStyle.None;
             Name = "MainMenu";
             Text = "Personal Assisant";
+            Load += MainMenu_Load;
             ResumeLayout(false);
             PerformLayout();
         }

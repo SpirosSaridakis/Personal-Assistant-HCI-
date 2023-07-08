@@ -42,3 +42,4 @@ C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssista
 C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\MusicPlayer.exe
 C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\MusicPlayer.dll
 C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\bin\Debug\net6.0-windows\MusicPlayer.pdb
+C:\Users\giann\OneDrive\Documents\GitHub\Personal-Assistant-HCI-\PersonalAssistant\obj\Debug\net6.0-windows\PersonalAssistant.Properties.Resources.resources

@@ -42,5 +42,9 @@ namespace PersonalAssistant
             var newform = new MusicPlayer.MusicPlayerWin();
             newform.Show();
         }
+
+        private void MainMenu_Load(object sender, EventArgs e)
+        {
+        }
     }
 }
